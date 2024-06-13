@@ -35,4 +35,4 @@ Para a implementação do projeto, foi utilizada a plataforma de simulação Tin
 https://github.com/httpadrfis/Pendulo-Simples/assets/127459067/e9612b5e-e544-417c-a679-85f3f222caa4
 
 ## Autora
-[httpadrfis](https://github.com/httpadrfis).
+[adriellymd](https://github.com/adriellymd)..
